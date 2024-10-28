@@ -21,14 +21,20 @@ h2{
 
 .weight{
     float: left;
-    margin-left: 5%;
-    padding-left: 2%;
-    width: 40%;
-
+    margin-left: 3%;
+    padding-right: 2%;
+    width: 42%;
+     
+         
 }
 
 .hight{
-    width: 100%;
+    
+    float: left;
+        margin-left: 3%;
+        padding-right: 2%;
+        width: 45%;
+     
 }
  .crop{
     width: 100%;
@@ -57,3 +63,28 @@ section{
     background-position: right;
 }
 
+.single{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+    height: 70%;
+}
+
+.exprence{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin: 2%;
+}
+  #pro{
+    
+    border-left: 7px solid ;
+    border-image: linear-gradient(  #211e76, #c21c17) 30;
+    border-image-slice: 1;}
+  
+
+  #nob{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(#211e76, #c21c17) 30;
+    border-image-slice: 1;
+  }
