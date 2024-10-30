@@ -51,7 +51,7 @@ section{
 
 .button{
     text-decoration: none;
-     background-color: rgb(181, 57, 11);
+     background-color: rgba(58, 188, 197, 0.568);
     padding: 10px 20px;
     border-radius: 10px;
     color: white;
